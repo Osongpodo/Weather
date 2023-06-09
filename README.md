@@ -1,2 +1,2 @@
-# Wheather
-Making Wheather System with Particle System
+# Weather
+Making Weather System with Particle System
